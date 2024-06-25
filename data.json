@@ -1,0 +1,196 @@
+{
+  "categories": [
+    {
+      "type": "fruit",
+      "value": ["banana", "apple", "orange", "grape", "pear", "peach", "plum", "kiwi", "mango", "pineapple"]
+    },
+    {
+      "type": "vegetable",
+      "value": ["carrot", "potato", "onion", "tomato", "cucumber", "pepper", "spinach", "broccoli", "cauliflower", "lettuce"]
+    },
+    {
+      "type": "animal",
+      "value": ["dog", "cat", "lion", "tiger", "elephant", "giraffe", "zebra", "monkey", "bear", "wolf"]
+    },
+    {
+      "type": "car",
+      "value": ["Toyota", "Honda", "Ford", "BMW", "Audi", "Tesla", "Mercedes", "Chevrolet", "Nissan", "Volkswagen"]
+    },
+    {
+      "type": "color",
+      "value": ["red", "blue", "green", "yellow", "purple", "orange", "pink", "brown", "black", "white"]
+    },
+    {
+      "type": "country",
+      "value": ["India", "USA", "Canada", "Brazil", "China", "Japan", "Germany", "France", "Italy", "Australia"]
+    },
+    {
+      "type": "city",
+      "value": ["New York", "London", "Paris", "Tokyo", "Mumbai", "Sydney", "Berlin", "Dubai", "Moscow", "Toronto"]
+    },
+    {
+      "type": "company",
+      "value": ["Google", "Apple", "Microsoft", "Amazon", "Facebook", "Tesla", "Samsung", "Intel", "IBM", "Sony"]
+    },
+    {
+      "type": "language",
+      "value": ["English", "Spanish", "French", "German", "Chinese", "Japanese", "Hindi", "Russian", "Arabic", "Portuguese"]
+    },
+    {
+      "type": "sport",
+      "value": ["soccer", "basketball", "baseball", "tennis", "cricket", "hockey", "golf", "swimming", "boxing", "rugby"]
+    },
+    {
+      "type": "food",
+      "value": ["pizza", "burger", "pasta", "sushi", "salad", "steak", "sandwich", "soup", "taco", "noodles"]
+    },
+    {
+      "type": "drink",
+      "value": ["water", "juice", "soda", "coffee", "tea", "milk", "wine", "beer", "smoothie", "lemonade"]
+    },
+    {
+      "type": "flower",
+      "value": ["rose", "tulip", "daisy", "sunflower", "lily", "orchid", "daffodil", "lavender", "poppy", "marigold"]
+    },
+    {
+      "type": "job",
+      "value": ["doctor", "teacher", "engineer", "lawyer", "nurse", "chef", "pilot", "artist", "writer", "musician"]
+    },
+    {
+      "type": "instrument",
+      "value": ["guitar", "piano", "violin", "drums", "flute", "saxophone", "trumpet", "cello", "clarinet", "harp"]
+    },
+    {
+      "type": "planet",
+      "value": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "Ceres"]
+    },
+    {
+      "type": "tool",
+      "value": ["hammer", "screwdriver", "wrench", "drill", "saw", "pliers", "chisel", "tape measure", "level", "ladder"]
+    },
+    {
+      "type": "tree",
+      "value": ["oak", "pine", "maple", "birch", "willow", "cherry", "apple", "spruce", "cedar", "elm"]
+    },
+    {
+      "type": "bird",
+      "value": ["sparrow", "eagle", "parrot", "penguin", "owl", "peacock", "flamingo", "seagull", "crow", "dove"]
+    },
+    {
+      "type": "insect",
+      "value": ["ant", "bee", "butterfly", "spider", "mosquito", "fly", "beetle", "ladybug", "dragonfly", "grasshopper"]
+    },
+    {
+      "type": "shape",
+      "value": ["circle", "square", "triangle", "rectangle", "oval", "pentagon", "hexagon", "octagon", "star", "diamond"]
+    },
+    {
+      "type": "season",
+      "value": ["spring", "summer", "autumn", "winter"]
+    },
+    {
+      "type": "continent",
+      "value": ["Asia", "Africa", "Europe", "North America", "South America", "Antarctica", "Australia"]
+    },
+    {
+      "type": "holiday",
+      "value": ["Christmas", "Easter", "Halloween", "Thanksgiving", "Diwali", "Hanukkah", "New Year", "Valentine's Day", "Independence Day", "Labor Day"]
+    },
+    {
+      "type": "month",
+      "value": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October"]
+    },
+    {
+      "type": "day",
+      "value": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    },
+    {
+      "type": "emotion",
+      "value": ["happy", "sad", "angry", "excited", "nervous", "scared", "surprised", "confused", "bored", "tired"]
+    },
+    {
+      "type": "building",
+      "value": ["house", "apartment", "office", "school", "hospital", "church", "mall", "factory", "warehouse", "library"]
+    },
+    {
+      "type": "clothing",
+      "value": ["shirt", "pants", "dress", "skirt", "jacket", "hat", "shoes", "socks", "gloves", "scarf"]
+    },
+    {
+      "type": "furniture",
+      "value": ["chair", "table", "sofa", "bed", "desk", "shelf", "cabinet", "dresser", "stool", "bench"]
+    },
+    {
+      "type": "appliance",
+      "value": ["refrigerator", "oven", "microwave", "dishwasher", "toaster", "blender", "washer", "dryer", "vacuum", "fan"]
+    },
+    {
+      "type": "toy",
+      "value": ["doll", "car", "ball", "puzzle", "teddy bear", "lego", "kite", "yo-yo", "robot", "train"]
+    },
+    {
+      "type": "game",
+      "value": ["chess", "checkers", "monopoly", "scrabble", "poker", "uno", "clue", "risk", "battleship", "jenga"]
+    },
+    {
+      "type": "dessert",
+      "value": ["cake", "ice cream", "cookies", "brownies", "pie", "pudding", "cupcake", "candy", "muffin", "donut"]
+    },
+    {
+      "type": "genre",
+      "value": ["fiction", "non-fiction", "mystery", "romance", "fantasy", "science fiction", "horror", "thriller", "biography", "poetry"]
+    },
+    {
+      "type": "currency",
+      "value": ["dollar", "euro", "pound", "yen", "rupee", "won", "peso", "franc", "ringgit", "ruble"]
+    },
+    {
+      "type": "brand",
+      "value": ["Nike", "Adidas", "Puma", "Reebok", "Under Armour", "Gucci", "Louis Vuitton", "Prada", "Chanel", "Hermes"]
+    },
+    {
+      "type": "website",
+      "value": ["Google", "YouTube", "Facebook", "Amazon", "Wikipedia", "Twitter", "Instagram", "LinkedIn", "Reddit", "Netflix"]
+    },
+    {
+      "type": "material",
+      "value": ["wood", "metal", "plastic", "glass", "cotton", "wool", "leather", "silk", "paper", "rubber"]
+    },
+    {
+      "type": "element",
+      "value": ["hydrogen", "helium", "carbon", "oxygen", "nitrogen", "iron", "gold", "silver", "copper", "zinc"]
+    },
+    {
+      "type": "mythical_creature",
+      "value": ["dragon", "unicorn", "phoenix", "mermaid", "griffin", "centaur", "hydra", "werewolf", "vampire", "fairy"]
+    },
+    {
+      "type": "profession",
+      "value": ["doctor", "engineer", "teacher", "lawyer", "scientist", "nurse", "pilot", "chef", "artist", "musician"]
+    },
+    {
+      "type": "reptile",
+      "value": ["snake", "lizard", "crocodile", "turtle", "gecko", "iguana", "chameleon", "alligator", "komodo dragon", "python"]
+    },
+    {
+      "type": "fish",
+      "value": ["salmon", "tuna", "trout", "shark", "goldfish", "catfish", "bass", "carp", "swordfish", "mackerel"]
+    },
+    {
+      "type": "planet",
+      "value": ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "Eris"]
+    },
+    {
+      "type": "constellation",
+      "value": ["Orion", "Ursa Major", "Ursa Minor", "Cassiopeia", "Andromeda", "Lyra", "Cygnus", "Scorpius", "Taurus", "Aquarius"]
+    },
+    {
+      "type": "dog_breed",
+      "value": ["Labrador", "Poodle", "Bulldog", "Beagle", "Pug", "German Shepherd", "Golden Retriever", "Dachshund", "Boxer", "Chihuahua"]
+    },
+    {
+      "type": "cat_breed",
+      "value": ["Persian", "Siamese", "Maine Coon", "Ragdoll", "Bengal", "Sphynx", "British Shorthair", "Abyssinian", "Scottish Fold", "Birman"]
+    }
+  ]
+}

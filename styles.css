@@ -1,0 +1,102 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background: #bfe1ff;
+    margin: 0;
+}
+
+#hangmanCanvas{
+    border-radius: 10%;
+    background: linear-gradient(145deg, #accbe6, #ccf1ff);
+box-shadow:  20px 20px 60px #a2bfd9,
+             -20px -20px 60px #dcffff;
+             margin: 5%;
+}
+
+.container {
+    font-weight: 400;
+    padding: 5%;
+    text-align: center;
+    width: 70%; /* Default width */
+    background: linear-gradient(145deg, #accbe6, #ccf1ff);
+    box-shadow:  20px 20px 60px #a2bfd9,
+             -20px -20px 60px #dcffff;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .container {
+        width: 80%; /* Adjusted width for tablets */
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .container {
+        width: 95%; /* Adjusted width for phones */
+    }
+}
+
+h1 {
+    color: #4d4dff;
+    font-weight: bold; /* Increased font-weight */
+}
+
+.word-container {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.keyboard {
+    margin-top: 20px;
+}
+
+.qwerty {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 10px;
+}
+
+.key {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 12px;
+    background-color: #99c2ff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 1.5rem;
+}
+
+.key:hover {
+    background-color: #80aaff;
+}
+
+#gameOverMessage {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#score {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#resetButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #4d4dff;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#resetButton:hover {
+    background-color: #3249e8;
+}
